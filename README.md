@@ -18,6 +18,6 @@ $ ./esteg.py img.png_esteg.png              # extract message from img.png_esteg
 ```
 
 ## TODO
-- [ ] Encrypt message before embedding.
+- [X] Encrypt message before embedding.
 - [ ] Support JPEG images by storing messages in DCT coefficients.
 - [ ] Support WAV files.
