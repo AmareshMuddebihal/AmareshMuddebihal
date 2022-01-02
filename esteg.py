@@ -310,7 +310,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Simple steganography program")
     parser.add_argument('img_fname', metavar='IMG_FNAME', type=str,
                         help="name of the image file")
-    parser.add_argument('--version', action='version', version='ESteg v0.1',
+    parser.add_argument('--version', action='version', version='ESteg v0.2',
                         help="show version infomation and exit")
     parser.add_argument('--embed', type=str, metavar="FNAME",
                         help="embed FNAME in IMG_FNAME [default behavior is to extract]")
