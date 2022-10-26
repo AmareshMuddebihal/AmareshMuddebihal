@@ -22,8 +22,6 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 ![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
 ![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
 ![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -44,34 +42,22 @@ https://github.com/AmareshMuddebihal
 <b>Interests  :</b>  
 <b>Education  :</b>  <a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
 
-
-
-
-
-
-
 <b>Let's Get in Touch ✨</b>
 <a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215">LinkedIn</a>   <a href="mailto:private.amareshsm123@gmail.com">Email</a>
 </pre>
-
-
-
-<details>	
+<pre>	
   <summary><b>⚡ GitHub Stats</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
+</pre>
+<pre>
 	<summary><b>📈 GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=AmareshMuddebihal&theme=minimal" />
 	<p align="center" >
-  <!-- Profile Views Stats -->
-  <img align="center" src="https://komarev.com//ghpvc/?username=AmareshMuddebihal%22%20alt=%22AmareshMuddebihal" />
+
 </p>
-</details>
+</pre>
 <details closed>
 <summary>💀 <b>Cool GIFs (Don't click the `matrix`)</b></summary>
 
