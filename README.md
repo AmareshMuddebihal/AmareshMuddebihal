@@ -40,7 +40,7 @@ https://github.com/AmareshMuddebihal
 <b>Languages  :</b>  
 <b>Frameworks :</b>  
 <b>Interests  :</b>  
-<b>Education  :</b>  <a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
+<b>Education  :</b> <!-- <a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">-->AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
 
 <b>Let's Get in Touch ✨</b>
 <a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215">LinkedIn</a>   <a href="mailto:private.amareshsm123@gmail.com">Email</a>
