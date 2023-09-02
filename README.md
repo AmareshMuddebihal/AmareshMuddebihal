@@ -75,9 +75,9 @@ https://github.com/AmareshMuddebihal
 <p align="center">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-<pre>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</pre>
+
 
 <details>
 <summary>
