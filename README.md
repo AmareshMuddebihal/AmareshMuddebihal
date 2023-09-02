@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a70f78
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+AMARESH+MUDDEBIHAL....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+I'm+AMARESH+MUDDEBIHAL....)](https://git.io/typing-svg)
 
 ![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
 ![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
@@ -64,27 +64,13 @@ https://github.com/AmareshMuddebihal
 
   <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmareshMuddebihal&theme=chartreuse-dark" />
 </pre>
 <pre>
-	<summary><b>📈 GitHub Graph</b></summary>
-	<img src="https://activity-graph.herokuapp.com/graph?username=AmareshMuddebihal&theme=minimal" />
-	<p align="center" >
-
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </pre>
-<details closed>
-<summary>💀 <b>Cool GIFs (Don't click the `matrix`)</b></summary>
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
-
-![Waves](./assets/wave.svg)
-
-
-<img align="left" src="https://octodex.github.com/images/nyantocat.gif" width="30%">
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
-</details>
 
 <details>
 <summary>
@@ -190,8 +176,9 @@ https://github.com/AmareshMuddebihal
 <summary>
 Last one I promise
 </summary>
-[Your Reward](https://www.youtube.com/)
+[Your Reward](https://www.linkedin.com/in/amaresh-muddebihal-247a82215)
 </details>
+
 
 
 
