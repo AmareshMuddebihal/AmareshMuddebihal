@@ -60,14 +60,21 @@ https://github.com/AmareshMuddebihal
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
 <code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 
-<pre>	
+	
 
   <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=chartreuse-dark" />
+	
+	
+		
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmareshMuddebihal&theme=chartreuse-dark" />
+</p>
+<p align="center">
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmareshMuddebihal&theme=chartreuse-dark" />
-</pre>
 <pre>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </pre>
