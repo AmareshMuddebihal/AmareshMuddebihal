@@ -42,7 +42,7 @@ https://github.com/AmareshMuddebihal
 <b>Interests  :</b>  
 <b>Education  :</b> <!-- <a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">-->AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
 
-	<a href="https://wwdw.buymeacoffee.com/amareshmuddebihal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+	<a href="https://www.buymeacoffee.com/amareshmuddebihal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <b>Let's Get in Touch ✨</b>
 <a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215">LinkedIn</a>   <a href="mailto:private.amareshsm123@gmail.com">Email</a>
