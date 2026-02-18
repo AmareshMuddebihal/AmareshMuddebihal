@@ -124,7 +124,7 @@
 </h2>
 
 <!-- INFRASTRUCTURE -->
-<h3 align="center">💻 INFRASTRUCTURE & IT MANAGEMENT</h3>
+<h3 align="center">💻 IT INFRASTRUCTURE & MANAGEMENT</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
@@ -181,7 +181,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmareshMuddebihal&theme=chartreuse-dark&bg_color=000000&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmareshMuddebihal&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff" width="95%"/>
 </p>
 
 <!-- DIVIDER -->
@@ -229,20 +229,25 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/cisco.png" width="60"/><br/>
-      <b>2022-2023</b><br/>
-      <sub>Network Administrator</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/96/000000/student-male.png" width="60"/><br/>
+      <b>2021-2024</b><br/>
+      <sub>B.Tech IT<br/>College</sub>
     </td>
-    <td align="center" width="34%">
-      <img src="https://img.icons8.com/color/96/000000/support.png" width="60"/><br/>
-      <b>2023-2024</b><br/>
-      <sub>Infrastructure Engineer</sub>
+   <td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/server.png" width="60"/><br/>
+  <b>2025 - Present</b><br/>
+  <sub><br/>IT Infrastructure</sub>
+</td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/96/000000/learning.png" width="60"/><br/>
+      <b>Currently</b><br/>
+      <sub>Upskilling in<br/>Data Analytics</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60"/><br/>
-      <b>2024-Present</b><br/>
-      <sub>Data Analytics Professional</sub>
+      <b>Future</b><br/>
+      <sub>Data Analytics<br/>Professional</sub>
     </td>
   </tr>
 </table>
