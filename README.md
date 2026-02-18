@@ -1,194 +1,358 @@
-### Hi there 👋
-
-<!--
-**AMARESH MUDDEBIHAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a70f78
--->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+I'm+AMARESH+MUDDEBIHAL....)](https://git.io/typing-svg)
-
-![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-![](https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-red-eagle" height="30" width="40" /></a>
-<a href="https://instagram.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its-red-eagle" height="30" width="40" /></a>
+<!-- 3D ANIMATED HEADER -->
+<p align="center">
+  <a href="https://www.amareshm.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=AMARESH+MUDDEBIHAL;IT+INFRASTRUCTURE+ENGINEER;DATA+ANALYTICS+PROFESSIONAL;PORTFOLIO+%40+www.amareshm.com" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- EAGLE ANIMATION -->
+<p align="center">
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="80" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="100" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="120" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="140" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="120" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="100" />
+  <img src="https://github.com/AmareshMuddebihal/AmareshMuddebihal/blob/main/Eagle.gif" width="80" />
+</p>
 
-<pre>
-https://github.com/AmareshMuddebihal
---------------------------------------------------------------------------------
-<b>Me         :</b>  Competetive Programmer
-<b>Languages  :</b>  
-<b>Frameworks :</b>  
-<b>Interests  :</b>  
-<b>Education  :</b> <!-- <a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">-->AMARESH</a> B.Tech. <b>( Information Technology) (2020-2024)</b>
+<!-- PORTFOLIO BANNER -->
+<p align="center">
+  <a href="https://www.amareshm.com" target="_blank">
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-www.amareshm.com-00FF00?style=for-the-badge&logo=starship&logoColor=white&labelColor=black" width="700"/>
+  </a>
+</p>
 
-	<a href="https://www.buymeacoffee.com/amareshmuddebihal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<b>Let's Get in Touch ✨</b>
-<a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215">LinkedIn</a>   <a href="mailto:private.amareshsm123@gmail.com">Email</a>
-</pre>
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### Worked with 
+<!-- PROFESSIONAL BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/IT_INFRASTRUCTURE-ENGINEER-00FFFF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-PROFESSIONAL-FF00FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-www.amareshm.com-FFFF00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" />
+</p>
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
+<!-- WELCOME MESSAGE -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  WELCOME TO MY DIGITAL SPACE
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-	
+<!-- ABOUT ME SECTION -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  ABOUT ME
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</h2>
 
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br />
-	
-	
-		
+<table align="center">
+  <tr>
+    <td>
+      <pre>
+┌─────────────────────────────────────────────┐
+│  📌 CURRENT ROLE                             │
+│  ├── IT Infrastructure Engineer              │
+│  └── Data Analytics Professional             │
+│                                              │
+│  🎯 EXPERTISE                                 │
+│  ├── Infrastructure Management               │
+│  ├── Data Analytics & Visualization          │
+│  ├── Python & SQL                            │
+│  ├── Power BI & Tableau                      │
+│  └── Team Management                         │
+│                                              │
+│  🌐 PORTFOLIO                                 │
+│  └── www.amareshm.com                        │
+│                                              │
+│  🌱 CURRENTLY LEARNING                        │
+│  ├── Advanced Data Analytics                 │
+│  ├── Cloud Infrastructure                     │
+│  └── Machine Learning                         │
+└─────────────────────────────────────────────┘
+      </pre>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&theme=chartreuse-dark" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmareshMuddebihal&theme=chartreuse-dark" />
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- CONNECT WITH ME -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  CONNECT WITH ME
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+</h2>
+
+<p align="center">
+  <a href="https://www.amareshm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-www.amareshm.com-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amaresh-muddebihal-247a82215" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:private.amareshsm123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a70f78" target="_blank">
+    <img src="https://img.shields.io/badge/Coding_Ninjas-FF6C37?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas"/>
+  </a>
+</p>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25">
+  TECH STACK & TOOLS
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25">
+</h2>
+
+<!-- INFRASTRUCTURE -->
+<h3 align="center">💻 INFRASTRUCTURE & IT MANAGEMENT</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- DATA ANALYTICS -->
+<h3 align="center">📊 DATA ANALYTICS & VISUALIZATION</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<!-- MANAGEMENT -->
+<h3 align="center">⚙️ MANAGEMENT & OTHERS</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Project_Management-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Leadership-FFB900?style=for-the-badge&logo=teamlead&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- GITHUB STATS -->
+<h2 align="center">
+  📊 GITHUB STATISTICS
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmareshMuddebihal&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmareshMuddebihal&theme=chartreuse-dark&border_radius=10&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmareshMuddebihal&theme=chartreuse-dark&no-frame=true&row=2&column=4" width="55%" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmareshMuddebihal&theme=chartreuse-dark&bg_color=000000&hide_border=true&area=true" width="95%"/>
+</p>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- FEATURED PROJECTS -->
+<h2 align="center">
+  🚀 FEATURED PROJECTS
+</h2>
+
+<p align="center">
+  <a href="https://www.amareshm.com/projects" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_VIEW_ALL_PROJECTS_ON_MY_PORTFOLIO-www.amareshm.com-00FF00?style=for-the-badge&labelColor=black" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmareshMuddebihal&repo=infrastructure-monitoring&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmareshMuddebihal&repo=data-analytics-dashboard&theme=chartreuse-dark&hide_border=true" />
+  </a>
 </p>
 <p align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmareshMuddebihal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmareshMuddebihal&repo=python-sql-analytics&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmareshMuddebihal&repo=powerbi-reports&theme=chartreuse-dark&hide_border=true" />
+  </a>
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- PROFESSIONAL TIMELINE -->
+<h2 align="center">
+  📅 PROFESSIONAL JOURNEY
+</h2>
 
-<details>
-<summary>
-   😈 <b>Please Don't Click</b>
-</summary>
-<details>
-<summary>
-  Refrain from clicking
-</summary>
-<details>
-<summary>
-  Stop haha
-</summary>
-<details>
-<summary>
-  oops haha no more :)
-</summary>
-<details>
-<summary>
-  Oh all right you can have this one
-</summary>
-<details>
-<summary>
-  Alright now stop
-</summary>  
-<details>
-<summary>
-  Still going?
-  </summary>
-<details>
-<summary>
-  Might take a while
-</summary>
-<details>
-<summary>
-  It's gonna be good tho
-</summary>
-<details>
-<summary>
-  You can do it
-  </summary>
-<details>
-<summary>
-  I Believe 
-</summary>
-<details>
-<summary>
-  Let's count to 10
-</summary>
-<details>
-<summary>
-  1
-</summary>
-<details>
-<summary>
-  2̡
-  </summary>
-<details>
-<summary>
-  3̊ͫ͡
-  </summary>
-<details>
-<summary>
-  4̙̦̼̙̽͋
-</summary>
-<details>
-<summary>
-  1̪̳̜̘̏̽́ͤ̈1̶̵͙̤̙̣̙̟͉̹̓͗͋͞
-</summary>
-<details>
-<summary>
-  1̧̨͚̟ͨͫ͐̓̑́̈́́̚1̖̯̪͍͙͓͙̝ͩ̀ͯ̎̀̒͞1̨̙͖̐̇
-</summary>
-<details>
-<summary>
-  1̋ͧ͌̋̉̇ͬ̈̄̚̚͏̛̰̰̝͚̘͔͖̗̝̼̩̼2̭͖̳̝͉̺̭̼͈̩̻͂̊́ͫͯ̌͋̈̎̎͊̀ͥ̒͑͋ͨͫ̈́͘͞͡
-  </summary>
-<details>
-<summary>
-  C̶̞̺̱̜̘̲̪̾̔̑̽̃ͤ͗̊̕o̢͕̺͍̳͉̪̘̝̮̖̲̠̣̮͕̣̱͐ͭͧ̑̎̄ͧ̅̊̍̑ͫͬ̌̅͒̓͟͜n̓͊ͯ̃ͬ́͋́̔̍̐ͯ҉̺̗͓̭̪̰̰̻͖͔̰͖̤ͅtͤ̃̅̒ͫͧ̏͛ͫ̿̎̌̍҉̢͏͖̼̗̹͈i̴͈̙̯͓͕̩̱̠͔̦͌ͬ̄̅͋̿́̕͜͢ņ͉͚̗̫̪̟̱̯̤̖͚͕̬͍̩͓̤̱̍ͣͤ̽̉͂̿͠uͧ̍̀́ͯ̔̐͠͏̮͖͇̻͚͓̼̺͚̲̠̘͍̪̲͇̻̳̼͘eͮ̍͑̅̓̄̓̈́ͬ̐̓ͯ̔̆̅̆́̚̕͞͏͎̣̲͚̼̖̳͔̻̻̫̜̹̩̠̗̻ͅͅ ̡̤̹͚̮̻͕̺͕͔͒ͨ̍̾̒ͦ͑̾̎ͦ͛̊̒ͪ̿͒͜͢͝a̴̯̜̰̟̰̬̳͇̺ͮͨ̿̌̀ͪ̂̀̐̽ͧ̉̉̀͢ͅͅn̴̴̥̼͉͓̞͈͍͇̗̟͍͋̐͋̊̾ͪ͑͡͞d̼͚͎̱͚̲̔ͨ̒ͦͮͦ͒͐̑̔̌̃̂̔͒͌͒͘ ͉͖͎̞͈̹̼̜̹̤͓̰͚ͭͮͫͤ̀̕͞â̶̢̛͉̤͇͔̗ͨ̎̓͛ͥͮ̓ͫ̐ͩͥ̾͐̊̍̓̈́ͦ̀ç̢̝̹̯͈͈͉̣̥͈̫͇͇͌ͣ̓ͥͩ͒͂ͮ͒̍̋͐͆̎̓̈̒͟͝h̖͍̣̘̜̠̞̰͙̜͈̗̞̮̭̳͓̻͂̊̂̓̉̍̋͗̋͐̈́͑ͪ͛͜͞i̧̮̖̣̣͔̬͙͔̹̬̤̺͆̾̃͌͑ͯ͊͂ͥ̚͟͜ȩ̩̣̺̰̩̩̻̘̙͉͉̟͓̥̮̉̆ͦ̆̊ͪ̒͂͒̋̎̕͝ͅv̴̧̞̞̻̟̺̟͙̺̞͇̭͔̜̉̇̇͆͛ͭ̃ͦ͘ë̡̿̊͆͐ͫ͐ͮ̔̈̋ͣͧͨ̍̐͏͠҉̩̤̝̻̲̣̝̞̬̼́ͅ ̒̇͂̑ͯ͆ͥ̓͗͛̍̓̑ͬ̈́̊̚͏̸̹̮͇͎̹̘̮̘̺͜y̩̲̝͈͕̦̪̬͍̲̺̞͕͋̊̅̂͑͂͊͞͝o̸̍͊̔͌͒̾ͬ̊͟͏͕̮͍̻̤͎͎̫͔̦̘͓̜̣͕͉̟̕u̡͒̈͂ͯ͒͢͏͙̰̠̝͕͔͓̼̙̱͕͓̳̪͈͉̠̠̞r̴̀̾ͪ̑̄̊́͊̉̈́ͮͨ̕҉͏̺͔̘̦̬̫͔̬̦̱̬ ̂̊̄̀ͨ͊ͨ͗ͤ́ͮͮ̑̄͐ͦ͏̧̰̘͈̯̦͉͖̣̤̭͔͎̩̮̮̠̻̝͠d̴̡̜̜̫̞̜̱̭̠̖̗̳̰͚̯̥͚̍͆̿ͪ̄ͥ̉̿͆͋̽̏̿ͤ̐̚͘͜͟ͅę̛͖̮͍̻͖͋̍̈̑ͧͥ̃̒̂̍ͦ̌s͗̍̔̍͑ͦ́̕͏̤̠̜̘̠͎̰̩̭t̶̝̫͎͓̫͚̖͖̱̗̥̥̜̭̗͓̱̝̏̿̍̾͟i̫̫̹̩̹̜̟̥̭͇͈̲͐ͬͦͤ̿̃̍ͧ͋̐ͯ́̄̉́̚͘͠n̶̢͍͔̬̣ͬ̄̾͛̈̂̅ͨͯ̆̌͠y̶͖͖͇̬̻̥͈͇̻̯͎ͪ̒ͥ̐ͣͣ̊̌̀͟͠͞ͅ
-</summary>
-<details>
-<summary>
-  10
-  </summary>
-<details>
-<summary>
-  Haha good job 😃🙌
-</summary>
-<details>
-<summary>
-  Almost there
-  </summary>
-<details>
-<summary>
-  Hope you're excited
-</summary>
-<details>
-<summary>
-  Get ready
-</summary>
-<details>
-<summary>
-Last one I promise
-</summary>
-[Your Reward](https://www.linkedin.com/in/amaresh-muddebihal-247a82215)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/cisco.png" width="60"/><br/>
+      <b>2022-2023</b><br/>
+      <sub>Network Administrator</sub>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://img.icons8.com/color/96/000000/support.png" width="60"/><br/>
+      <b>2023-2024</b><br/>
+      <sub>Infrastructure Engineer</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/bar-chart.png" width="60"/><br/>
+      <b>2024-Present</b><br/>
+      <sub>Data Analytics Professional</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- SUPPORT SECTION -->
+<h2 align="center">
+  ☕ SUPPORT MY WORK
+</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amareshmuddebihal" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.amareshm.com/contact" target="_blank">
+    <img src="https://img.shields.io/badge/📬_CONTACT_ME_VIA_PORTFOLIO-www.amareshm.com-00FF00?style=for-the-badge&labelColor=black" width="500"/>
+  </a>
+</p>
+
+<!-- FUN SECTION -->
+<h2 align="center">
+  🎯 FUN CORNER
+</h2>
+
+<details align="center">
+  <summary><b>⚡ Click for a surprise!</b></summary>
+  <br/>
+  
+  <h3>📊 Data & Infrastructure Humor</h3>
+  
+  <table align="center">
+    <tr>
+      <td><b>🤓 Data Nerd</b></td>
+      <td>98.7% of statistics are made up on the spot</td>
+    </tr>
+    <tr>
+      <td><b>🔧 Infrastructure</b></td>
+      <td>My servers have 99.9% uptime (0.1% coffee breaks)</td>
+    </tr>
+    <tr>
+      <td><b>📈 Analytics</b></td>
+      <td>I don't always analyze data, but when I do, I use Python</td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <details>
+    <summary>🔍 Click again for hidden treasure!</summary>
+    <br/>
+    <p>
+      ═══════════════════════════════════════<br/>
+      🎉 CONGRATULATIONS! 🎉<br/>
+      ═══════════════════════════════════════<br/>
+      <br/>
+      🌐 Visit my portfolio for more: <b>www.amareshm.com</b><br/>
+      💡 Use code: <b>GITHUB_EAGLE</b> for a special surprise!<br/>
+      <br/>
+      <a href="https://www.amareshm.com" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_CLAIM_YOUR_REWARD-www.amareshm.com-FF1493?style=for-the-badge&labelColor=black" width="400"/>
+      </a>
+    </p>
+  </details>
 </details>
 
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmareshMuddebihal&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AmareshMuddebihal?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</p>
 
+<!-- QUOTE OF THE DAY -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=www.amareshm.com&fontSize=30&fontColor=00FF00&animation=twinkling"/>
+</p>
 
+<p align="center">
+  <sub>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+    <b>Designed with ❤️ by AMARESH MUDDEBIHAL</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+    <br/>
+    <a href="https://www.amareshm.com">www.amareshm.com</a>
+  </sub>
+</p>
+
+<!-- 
+  █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗███████╗██╗  ██╗
+ ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔════╝██║  ██║
+ ███████║██╔████╔██║███████║██████╔╝█████╗  ███████╗███████║
+ ██╔══██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══╝  ╚════██║██╔══██║
+ ██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████║██║  ██║
+ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+ 
+ 🌐 Visit my portfolio: www.amareshm.com
+ 📊 Data meets Infrastructure
+ 🚀 Building solutions that matter
+ 
+ Thanks for visiting! Come back soon!
+-->
